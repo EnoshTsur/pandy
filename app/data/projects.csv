@@ -1,0 +1,11 @@
+Project_ID,Student_ID,Course_ID,Project_Name,Submission_Date,Score,Team_Size
+P001,ST001,CS101,Simple Calculator,2021-10-15,95,1
+P002,ST001,WEB101,Personal Portfolio,2021-11-20,88,1
+P003,ST002,CS101,Task Manager,2021-10-15,92,2
+P004,ST003,CS201,Sorting Algorithm Visualizer,2022-03-10,87,2
+P005,ST004,WEB201,E-commerce Frontend,2022-04-05,91,3
+P006,ST005,CS301,Database Design Project,2022-11-15,94,2
+P007,ST006,DS101,Data Analysis Dashboard,2022-10-20,89,1
+P008,ST007,WEB301,Full Stack Social Media App,2023-04-10,93,4
+P009,ST008,CS401,Machine Learning Image Classifier,2023-05-01,90,2
+P010,ST009,CS102,Linked List Implementation,2021-12-01,91,1

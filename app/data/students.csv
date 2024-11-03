@@ -1,0 +1,26 @@
+Name,Age,Favorite_Language,Favorite_Framework,Student_ID,Enrollment_Year,GPA
+David HaMagid,22,Python,Django,ST001,2021,3.8
+Reuven Cohen,21,JavaScript,React,ST002,2021,3.9
+Yehuda Zeev,23,Java,Spring Boot,ST003,2020,3.7
+Yair Weissman,20,Python,Flask,ST004,2022,3.6
+Menachem Mendel Achrak,24,C#,.NET Core,ST005,2020,3.9
+Benjamin Naftali,19,JavaScript,Vue.js,ST006,2023,3.5
+Chaim Tzvi Talker,22,Ruby,Ruby on Rails,ST007,2021,3.8
+Yeshayahu Stern,21,Go,Gin,ST008,2022,3.7
+Aaron Reiner,23,TypeScript,Angular,ST009,2021,3.9
+Mordechai Oren,20,Python,FastAPI,ST010,2022,3.6
+Pinchas Waxberger,24,Java,Hibernate,ST011,2020,3.8
+Shlomo Goldberg,22,Rust,Actix,ST012,2021,3.7
+Eliyahu Erlanger,21,PHP,Laravel,ST013,2022,3.9
+Eliezer Shamul,23,JavaScript,Next.js,ST014,2021,3.8
+Elkana Kalman,20,Python,PyTorch,ST015,2022,3.6
+Jonathan Rosenthal,24,C++,Qt,ST016,2020,3.7
+Shlomo Benati,19,Swift,SwiftUI,ST017,2023,3.5
+Menachem Lintzer,22,Kotlin,Spring,ST018,2021,3.8
+Mordechai Cohen,21,JavaScript,Express,ST019,2022,3.7
+Menachem Amrami,23,Python,NumPy,ST020,2021,3.9
+Ariel Albert,20,Ruby,Sinatra,ST021,2022,3.6
+Menachem Mendel Ben Chaim,24,Go,Echo,ST022,2020,3.8
+Simcha Mizrachi,22,JavaScript,Svelte,ST023,2021,3.7
+Israel Vershaviak,21,Python,TensorFlow,ST024,2022,3.9
+David Friedles,23,Java,Micronaut,ST025,2021,3.8

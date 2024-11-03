@@ -1,0 +1,11 @@
+Course_ID,Course_Name,Department,Credits,Instructor,Difficulty_Level
+CS101,Introduction to Programming,Computer Science,3,Dr. Alef Lewit,Beginner
+CS102,Data Structures,Computer Science,4,Dr. Tomer Sagi,Intermediate
+CS201,Algorithms,Computer Science,4,Dr. Itshak Schlissel,Advanced
+CS301,Database Systems,Computer Science,3,Dr. Enosh Tsur,Intermediate
+CS401,Machine Learning,Computer Science,4,Dr. Shmuel Kasahun,Advanced
+WEB101,Web Development Basics,Web Development,3,Prof. Omer Munk,Beginner
+WEB201,Frontend Development,Web Development,3,Prof. Maor Gabay,Intermediate
+WEB301,Backend Development,Web Development,4,Prof. Matanel Vatkin,Advanced
+DS101,Data Science Fundamentals,Data Science,3,Dr. Enosh Tsur,Beginner
+DS201,Statistical Analysis,Data Science,4,Dr. Elly Tal,Intermediate
